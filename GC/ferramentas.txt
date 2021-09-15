@@ -1,0 +1,13 @@
+*** FERRAMENTAS A SEREM USADAS EM CADA ETAPA DO CICLO DE VIDA DO SOFTWARE ***
+
+1. Requisitos: papel, bloco de notas;
+		
+2. Arquitetura: Astah, brModelo, MockFlow;
+
+3. Desenvolvimento: IDE, linguagem de programação, GIT, Prolog;
+
+4. Teste: IDE;
+
+5. Implantação: tutorial;
+
+6. Suporte: telefone, whatsapp, e-mail.
