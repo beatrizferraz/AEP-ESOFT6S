@@ -1,17 +1,18 @@
 Grupo: Beatriz Ferraz e Diogo Uoma
 
 Artefatos:
--	Diagramas
--	Técnica em PROLOG
 -	Definição de requisitos
+-	Diagramas UML
+-	Técnica em PROLOG
 -	Técnicas de métrica
 -	Técnicas de teoria da computação
 -	Gerenciamento no Github
 -	Criaçao dos mockups
+- 	Modelagem do banco de dados (extra)
 
 
 Diogo, responsável por:  tecnicas em prolog, gerenciamento em github, técnicas aplicáveis em métrica de software e técnicas aplicáveis em teoria da computação 
 
-Beatriz, responsável por:  digramas UML, tecnicas em polog, gerenciamento no github, definições dos requisitos, criação dos mockups
+Beatriz, responsável por:  digramas UML, gerenciamento no github, definições dos requisitos, criação dos mockups, modelagem do banco de dados
 
 Integrantes do comitê: Beatriz e Diogo 
