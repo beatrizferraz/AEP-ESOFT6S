@@ -1,5 +1,9 @@
 Grupo: Beatriz Ferraz e Diogo Uoma
 
+Integrantes do comitê: Beatriz e Diogo 
+
+PRIMEIRA ENTREGA:
+
 Artefatos:
 -	Definição de requisitos
 -	Diagramas UML
@@ -15,4 +19,18 @@ Diogo, responsável por:  tecnicas em prolog, gerenciamento em github, técnicas
 
 Beatriz, responsável por:  digramas UML, gerenciamento no github, definições dos requisitos, criação dos mockups, modelagem do banco de dados
 
-Integrantes do comitê: Beatriz e Diogo 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SEGUNDA ENTREGA:
+
+Artefatos:
+- Implementação/codificação
+- Aplicação de métricas de software
+- Representação de gramática de linguagem de programação
+- Criação de uma ontologia
+- Gerenciamento no Github
+- Preparação da apresentação
+
+Diogo, responsável por: gerenciamento no github, codificação, aplicação de métricas de software, criação de ontologia
+
+Beatriz, responsável por: gerenciamento no github, codificação, representação de gramática de linguagem de programação, preparação da apresentação
