@@ -31,6 +31,6 @@ Artefatos:
 - Gerenciamento no Github
 - Preparação da apresentação
 
-Diogo, responsável por: gerenciamento no github, codificação, aplicação de métricas de software, criação de ontologia
+Diogo, responsável por: gerenciamento no github, codificação, criação de ontologia
 
-Beatriz, responsável por: gerenciamento no github, codificação, representação de gramática de linguagem de programação, preparação da apresentação
+Beatriz, responsável por: gerenciamento no github, codificação, representação de gramática de linguagem de programação, aplicação de métricas de software, preparação da apresentação
